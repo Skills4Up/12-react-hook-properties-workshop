@@ -24,37 +24,6 @@ Al finalizar este workshop, serás capaz de:
 
 ---
 
-## 🗺️ Mapa de progresión de conocimientos
-
-### Bloque 1: Fundamentos del Estado en React
-
-- [¿Qué es el estado y por qué es importante?](1-estado/1-que-es-estado.md)
-- [Estado vs Propiedades: diferencias clave](1-estado/2-estado-vs-props.md)
-- [Cuándo usar estado local vs global](1-estado/3-cuando-usar-estado.md)
-
-### Bloque 2: Hook useState
-
-- [Introducción a useState](2-usestate/1-introduccion-usestate.md)
-- [Manejo de estado primitivo y objetos](2-usestate/2-tipos-estado.md)
-- [Actualizaciones de estado y renderizado](2-usestate/3-actualizaciones-estado.md)
-- [Patrones comunes con useState](2-usestate/4-patrones-comunes.md)
-
-### Bloque 3: Hook useEffect
-
-- [Introducción a useEffect](3-useeffect/1-introduccion-useeffect.md)
-- [Efectos sin dependencias y con dependencias](3-useeffect/2-dependencias-useeffect.md)
-- [Cleanup y efectos de limpieza](3-useeffect/3-cleanup-efectos.md)
-- [Casos de uso comunes con useEffect](3-useeffect/4-casos-uso-useeffect.md)
-
-### Bloque 4: Integración Estado y Propiedades
-
-- [Comunicación bidireccional con props y estado](4-integracion/1-comunicacion-bidireccional.md)
-- [Lifting state up - Elevar el estado](4-integracion/2-lifting-state-up.md)
-- [Patrones de composición con estado](4-integracion/3-patrones-composicion.md)
-- [Casos de uso reales y mejores prácticas](4-integracion/4-casos-reales-practicas.md)
-
----
-
 ## 📚 Rutas de aprendizaje y práctica guiada
 
 La ruta de aprendizaje está organizada en bloques temáticos.  
